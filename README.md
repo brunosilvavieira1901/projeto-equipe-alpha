@@ -1,4 +1,4 @@
 # projeto-equipe-alpha
-body {
-    background-color: #f0f0f0;
-}
+# projeto-equipe-alpha]
+# projeto-equipe-alpha
+# projeto-equipe-alpha
